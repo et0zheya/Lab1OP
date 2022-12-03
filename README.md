@@ -64,9 +64,14 @@
 
 
 4. ## **Описание алгоритмов**
-![](im/Aspose.Words.26e3e94c-23ed-4d42-b8ae-97f1da3da993.006.png)![](im/Aspose.Words.26e3e94c-23ed-4d42-b8ae-97f1da3da993.002.png)Алгоритм страницы регистрации:
 
-![](im/Aspose.Words.26e3e94c-23ed-4d42-b8ae-97f1da3da993.002.png)Алгоритм страницы авторизации:
+Алгоритм страницы регистрации:
+
+![](im/Aspose.Words.26e3e94c-23ed-4d42-b8ae-97f1da3da993.006.png)![](im/Aspose.Words.26e3e94c-23ed-4d42-b8ae-97f1da3da993.002.png)
+
+![](im/Aspose.Words.26e3e94c-23ed-4d42-b8ae-97f1da3da993.002.png)
+
+Алгоритм страницы авторизации:
 
 ![](im/Aspose.Words.26e3e94c-23ed-4d42-b8ae-97f1da3da993.007.png)
 
