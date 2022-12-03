@@ -81,8 +81,8 @@
 # **Значимые фрагменты кода**
 Фрагмент кода проверки данных, полученных из формы регистрации, и запись их в базу данных:
 
-```
-php
+```php
+
 if (empty($taskList)) {
 
 `    `header('Location: /index.php');
@@ -134,7 +134,7 @@ exit();
 
 Фрагмент кода проверки введенных данных, обновления токена при авторизации:
 
-```
+```php
 foreach ($taskList as $value){
 
 `    `if(($login == $value->login && password\_verify($password, $value->password))){
